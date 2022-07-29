@@ -10,4 +10,5 @@ It then appends the data into a csv file called <pose_subscriber_loc.csv>.<br>
 The csv file is divided into three columns: [Date with time, x coordinates, y coordinates]<br>
 The other python file, <matplot.py>, extracts the data from the csv file created, and plots them into a diagram.<hr>
 
-The web.sh file displays the plotted file into the html page under the Plot Diagram API 
+The web.sh file displays the plotted file into the html page under the Plot Diagram API <hr>
+NOTE: The server is closed at the moment as you're reading this. Kindly let me know when you need me to start it.
