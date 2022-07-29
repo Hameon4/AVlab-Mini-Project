@@ -11,4 +11,4 @@ The csv file is divided into three columns: [Date with time, x coordinates, y co
 The other python file, <matplot.py>, extracts the data from the csv file created, and plots them into a diagram.<hr>
 
 The web.sh file displays the plotted file into the html page under the Plot Diagram API <hr>
-NOTE: The server is closed at the moment as you're reading this. Kindly let me know when you need me to start it.
+NOTE: The server is closed at the moment as you're reading this. Do let me know when you need me to start it.
